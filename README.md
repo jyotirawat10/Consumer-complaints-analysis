@@ -1,6 +1,7 @@
 Consumer Complaints Analysis: Key Insights & KPIs
 
 I recently completed a comprehensive Consumer Complaints Analysis aimed at helping businesses enhance their customer service and address recurring issues. The analysis focused on critical KPIs and provided valuable insights into complaint trends, response efficiency, and product-specific concerns.
+Using Excel created dashboard
 
 🔍 Key Questions Addressed:
 
